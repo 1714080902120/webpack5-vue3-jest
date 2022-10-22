@@ -1,0 +1,29 @@
+{
+  "name": "webpack-vue3-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "serve": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.19.6",
+    "@babel/preset-env": "^7.19.4",
+    "@vue/test-utils": "^2.1.0",
+    "@vue/vue3-jest": "^29.1.1",
+    "babel-jest": "27.0.6",
+    "html-webpack-plugin": "^5.5.0",
+    "jest": "27.0.5",
+    "vue-loader": "^17.0.0",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.11.1"
+  },
+  "dependencies": {
+    "vue": "^3.2.41"
+  }
+}
