@@ -1,7 +1,8 @@
 # webpack5-vue3-jest
 a package of webpack5 vue3 and jest
 
-use ```
+use
+```bash
 pnpm install
 ```
 to start
